@@ -1,7 +1,7 @@
 streamlit
-matplotlib.pyplot
+matplotlib
 pandas
 scikit-learn
 numpy
 seaborn
-pickle
+Pillow
